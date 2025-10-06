@@ -1,679 +1,935 @@
-"question": "What is 'psychological egoism' as defended by philosophers like Hobbes?",
-        "options": [
-            "The view that people should be selfish",
-            "The descriptive claim that all human actions are ultimately motivated by self-interest",
-            "The idea that psychology is the most important science",
-            "The belief that egos are psychological constructs"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 78,
-        "question": "How does the Judeo-Christian view of human nature differ from Greek rationalism?",
-        "options": [
-            "It denies that humans have rational capacities",
-            "It adds the concept of humans being made in God's image with moral will",
-            "It rejects the idea that humans have souls",
-            "It claims humans are naturally perfect"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 79,
-        "question": "According to Augustine, what are the three disordered desires that corrupt human will?",
-        "options": [
-            "Reason, spirit, and appetite",
-            "Lust, curiosity, and pride",
-            "Faith, hope, and charity",
-            "Mind, body, and soul"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 80,
-        "question": "What is the mind-body problem?",
-        "options": [
-            "How to keep both mind and body healthy",
-            "How mind and body can be so different yet interact",
-            "Whether the brain is part of the body",
-            "Why we have both thoughts and feelings"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 81,
-        "question": "What is consciousness according to the text?",
-        "options": [
-            "The ability to move",
-            "Awareness of sensing, feeling, and thinking when awake",
-            "Having a brain",
-            "The ability to speak"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 82,
-        "question": "What is dualism in philosophy of mind?",
-        "options": [
-            "The view that there are two gods",
-            "The view that humans consist of two different kinds of things: mind and body",
-            "The view that there are two types of bodies",
-            "The view that consciousness has two parts"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 83,
-        "question": "Who was the first great philosopher of the modern age to propose a clear version of mind-body dualism?",
-        "options": [
-            "Plato",
-            "Aristotle",
-            "René Descartes",
-            "David Hume"
-        ],
-        "correct": 2,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 84,
-        "question": "What famous conclusion did Descartes reach on November 10, 1619?",
-        "options": [
-            "God exists",
-            "The body and mind are separate",
-            "I think, therefore I am",
-            "Everything is an illusion"
-        ],
-        "correct": 2,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 85,
-        "question": "According to Descartes, can you conceive of yourself without a body?",
-        "options": [
-            "No, it's impossible",
-            "Yes, but not without a thinking mind",
-            "Only in dreams",
-            "Only after death"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 86,
-        "question": "What crucial assumption does Descartes make about conceivability?",
-        "options": [
-            "If you can conceive of one thing without another, they must be different",
-            "Conceiving something makes it real",
-            "What you cannot conceive doesn't exist",
-            "Conceivability proves immortality"
-        ],
-        "correct": 0,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 87,
-        "question": "What is behaviorism's main claim about the mind?",
-        "options": [
-            "The mind is a separate substance",
-            "The mind is how you behave",
-            "The mind doesn't exist",
-            "The mind is the soul"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 88,
-        "question": "What is functionalism's main claim?",
-        "options": [
-            "The mind is a separate substance",
-            "Mental activities can be explained as connections between sensory inputs and behavior outputs",
-            "Only behavior matters",
-            "The mind is identical to the brain"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 89,
-        "question": "What is the identity theory of mind?",
-        "options": [
-            "Mind and body are identical",
-            "Mental states are simply identical with states of the brain",
-            "All minds are identical",
-            "Identity is a mental construct"
-        ],
-        "correct": 1,
-        "section": "Human Nature and Darwin"
-    },
-    {
-        "id": 90,
-        "question": "According to David Hume, what is the self?",
-        "options": [
-            "An immortal soul",
-            "Identical to the physical body",
-            "A bundle of constantly changing perceptions with no enduring self",
-            "Created by God"
-        ],
-        "correct": 2,
-        "section": "Human Nature and Darwin"
-    },
-    
-    # SECTION 5: LOGIC AND ARGUMENTATION (91-120)
-    {
-        "id": 91,
-        "question": "What are the two main components of an argument?",
-        "options": [
-            "Facts and opinions",
-            "Premises and conclusion",
-            "Questions and answers",
-            "Problems and solutions"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 92,
-        "question": "A valid argument is one in which:",
-        "options": [
-            "The premises are true",
-            "The conclusion is true",
-            "If the premises are true, the conclusion must be true",
-            "Everyone agrees with the conclusion"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 93,
-        "question": "A sound argument is:",
-        "options": [
-            "Any argument that sounds convincing",
-            "A valid argument with true premises",
-            "An argument everyone accepts",
-            "An argument made by an authority"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 94,
-        "question": "What makes an argument invalid?",
-        "options": [
-            "False premises",
-            "A conclusion that could be false even if the premises are true",
-            "An unpopular conclusion",
-            "Too many premises"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 95,
-        "question": "The difference between deductive and inductive arguments is:",
-        "options": [
-            "Deductive arguments are longer than inductive ones",
-            "Deductive arguments aim for certainty, inductive for probability",
-            "Deductive arguments are always true, inductive are always false",
-            "There is no difference"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 96,
-        "question": "What does it mean to 'beg the question' in logic?",
-        "options": [
-            "To ask a lot of questions",
-            "To assume what you're trying to prove (circular reasoning)",
-            "To ask politely for something",
-            "To raise an important issue"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 97,
-        "question": "Philosophical arguments differ from opinions because they:",
-        "options": [
-            "Are always true",
-            "Provide premises to support conclusions",
-            "Are popular",
-            "Are easy"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 98,
-        "question": "Theoretical thinking holds that:",
-        "options": [
-            "Multiple views can be true",
-            "If one view is correct, different views must be incorrect",
-            "All opinions are equal",
-            "Truth is relative"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 99,
-        "question": "Anarchic thinking:",
-        "options": [
-            "Studies different subjects",
-            "Accepts multiple valid perspectives while theoretical seeks one correct view",
-            "Uses different methods",
-            "Is ancient"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 100,
-        "question": "The law of non-contradiction states:",
-        "options": [
-            "Everything contradicts",
-            "Something cannot both be and not be in the same respect at the same time",
-            "All contradictions are true",
-            "Logic is impossible"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 101,
-        "question": "According to Sartre, what does human freedom imply about our choices?",
-        "options": [
-            "We are free to choose but not responsible for outcomes",
-            "When we choose, we imply everyone should choose the same",
-            "Freedom means we can avoid making choices",
-            "Our choices are determined by God"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 102,
-        "question": "According to Sartre, what does 'anguish' mean?",
-        "options": [
-            "Physical pain from difficult decisions",
-            "Fear of death",
-            "Recognition of our total and deep responsibility when choosing",
-            "Uncertainty about the future"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 103,
-        "question": "According to John Locke, what makes a person the same over time?",
-        "options": [
-            "The immaterial soul",
-            "The physical body",
-            "Memory or consciousness of being that earlier person",
-            "Social relationships with others"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 104,
-        "question": "According to Buddhist philosophy, what is the self?",
-        "options": [
-            "An eternal, unchanging soul",
-            "A fleeting, momentary composite that dissolves and changes constantly",
-            "Identical to the physical body",
-            "A creation of society"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 105,
-        "question": "According to Hegel, how do we become free and independent?",
-        "options": [
-            "By isolating ourselves from others",
-            "Through recognition from others who see us as free and independent",
-            "By accumulating wealth and power",
-            "Through meditation and inner reflection alone"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 106,
-        "question": "According to Charles Taylor, how is our identity formed?",
-        "options": [
-            "Through our genes and biology alone",
-            "By our own independent choices without influence",
-            "Through dialogue and recognition from others, including our culture",
-            "Randomly without any pattern"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 107,
-        "question": "How did Aristotle's view of Forms differ from Plato's?",
-        "options": [
-            "Aristotle rejected the existence of Forms entirely",
-            "Aristotle believed Forms exist in the visible things themselves, not in a separate world",
-            "Aristotle thought Forms were created by God",
-            "Aristotle agreed completely with Plato"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 108,
-        "question": "According to Confucius, what is the key to overcoming political strife?",
-        "options": [
-            "Strict laws and harsh punishments",
-            "Military force and control",
-            "Virtue in both rulers and citizens",
-            "Economic prosperity alone"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 109,
-        "question": "According to the rationalistic view, what is the essential characteristic of human nature?",
-        "options": [
-            "Emotion",
-            "Physical strength",
-            "Reason",
-            "Social connection"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 110,
-        "question": "What do feminist critics claim about the rationalistic view?",
-        "options": [
-            "It is completely accurate",
-            "It is sexist and biased against women",
-            "It needs minor adjustments",
-            "It applies only to ancient times"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 111,
-        "question": "What makes consciousness 'subjective'?",
-        "options": [
-            "It can be measured scientifically",
-            "It exists only as experienced by someone and others cannot be aware of it 'from the inside'",
-            "It is the same for everyone",
-            "It is purely physical"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 112,
-        "question": "What is Descartes' view of human nature called?",
-        "options": [
-            "Monism",
-            "Materialism",
-            "Dualism",
-            "Idealism"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 113,
-        "question": "Who was the major advocate of behaviorism?",
-        "options": [
-            "René Descartes",
-            "Gilbert Ryle",
-            "John Searle",
-            "David Chalmers"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 114,
-        "question": "What did Ryle call Descartes' view of the mind?",
-        "options": [
-            "The soul theory",
-            "The consciousness hypothesis",
-            "The dogma of the ghost in the machine",
-            "The dualist error"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 115,
-        "question": "What is the main problem with behaviorism according to critics?",
-        "options": [
-            "It's too complicated",
-            "It reduces the mind to observable behavior, leaving out interior consciousness",
-            "It contradicts science",
-            "It's too old-fashioned"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 116,
-        "question": "What analogy is often used to explain the functionalist view of mind?",
-        "options": [
-            "Mind is like water",
-            "Mind is like a ghost",
-            "Mind is like a computer",
-            "Mind is like a book"
-        ],
-        "correct": 2,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 117,
-        "question": "Who developed the identity theory?",
-        "options": [
-            "Descartes",
-            "J.J.C. Smart",
-            "Gilbert Ryle",
-            "John Locke"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 118,
-        "question": "What is John Searle's 'Chinese Room' argument about?",
-        "options": [
-            "Learning languages",
-            "A person following rules can pass the Turing Test without understanding Chinese",
-            "Chinese philosophy",
-            "Room design"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 119,
-        "question": "What is eliminative materialism?",
-        "options": [
-            "The view that only physical things exist",
-            "The view that our ordinary conceptions of mind are false and should be eliminated",
-            "The view that we should eliminate the body",
-            "The view that consciousness doesn't exist"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    },
-    {
-        "id": 120,
-        "question": "Philosophy differs from other fields because it:",
-        "options": [
-            "Studies ancient texts only",
-            "Examines fundamental assumptions other fields take for granted",
-            "Requires no evidence",
-            "Focuses on practical problems only"
-        ],
-        "correct": 1,
-        "section": "Logic and Argumentation"
-    }
-]
+import streamlit as st
 
-# Header
-st.title("🎓 PHL 201: Introduction to Philosophy - Comprehensive Exam")
-st.markdown("**By Xavier Honablue M.Ed for Wayne County Community College District**")
+# Page config
+st.set_page_config(page_title="PHL 201 Comprehensive Exam Quiz", page_icon="🧠", layout="wide")
 
-# Resources Section
-with st.expander("📚 Additional Resources"):
-    st.markdown("""
-    ### External Philosophy Resources
-    
-    For deeper exploration of the topics covered in this exam, visit:
-    
-    - **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)** - Comprehensive, peer-reviewed articles
-    - [Epistemology](https://plato.stanford.edu/entries/epistemology/)
-    - [Plato](https://plato.stanford.edu/entries/plato/)
-    - [Socrates](https://plato.stanford.edu/entries/socrates/)
-    - [Mind-Body Problem](https://plato.stanford.edu/entries/dualism/)
-    - [Logic and Argumentation](https://plato.stanford.edu/entries/logic-classical/)
-    
-    *Links open in a new tab and won't affect your exam progress*
-    """, unsafe_allow_html=True)
+# Initialize session state
+if 'answers' not in st.session_state:
+    st.session_state.answers = {}
+if 'submitted' not in st.session_state:
+    st.session_state.submitted = False
 
-st.info("📋 **Instructions:** This comprehensive exam contains 120 questions across 5 sections. Answer all questions before submitting. You can review your results after completing the entire exam.")
-
-# Display questions
-if not st.session_state.submitted:
-    st.markdown("---")
+# Questions data - All 120 questions from PHL 201 Exam
+questions = [
+    # SECTION 1: EPISTEMOLOGY (1-30)
+    {
+        "id": 1,
+        "question": "What is epistemology?",
+        "options": [
+            "The study of being and existence",
+            "The study of knowledge and truth",
+            "The study of ethics and morality",
+            "The study of logic and argumentation"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 2,
+        "question": "The classical definition of knowledge is:",
+        "options": [
+            "True belief",
+            "Justified true belief",
+            "Certain belief",
+            "Popular belief"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 3,
+        "question": "The Gettier problem challenges:",
+        "options": [
+            "The existence of truth",
+            "The classical definition of knowledge as justified true belief",
+            "The possibility of belief",
+            "The need for justification"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 4,
+        "question": "Rationalism emphasizes:",
+        "options": [
+            "Experience only",
+            "Reason and logic",
+            "Authority",
+            "Intuition only"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 5,
+        "question": "Empiricism emphasizes:",
+        "options": [
+            "Reason only",
+            "Sensory experience and observation",
+            "Revelation",
+            "Mathematical proof"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 6,
+        "question": "A priori knowledge:",
+        "options": [
+            "Requires experience",
+            "Can be known independently of experience",
+            "Comes from authorities",
+            "Changes over time"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 7,
+        "question": "A posteriori knowledge requires:",
+        "options": [
+            "Pure reasoning only",
+            "Experience and observation",
+            "Mathematical proof",
+            "Authority confirmation"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 8,
+        "question": "Skepticism questions:",
+        "options": [
+            "Religious beliefs only",
+            "Whether knowledge is possible",
+            "Scientific claims only",
+            "Arguments only"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 9,
+        "question": "Foundationalism claims:",
+        "options": [
+            "All beliefs are equal",
+            "Some beliefs are basic and need no justification from others",
+            "No beliefs can be justified",
+            "Only empirical beliefs count"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 10,
+        "question": "Coherentism argues:",
+        "options": [
+            "Only foundations matter",
+            "Beliefs are justified by fitting coherently together",
+            "No justification is possible",
+            "Only experience matters"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 11,
+        "question": "Reliabilism judges knowledge based on:",
+        "options": [
+            "Popular consensus",
+            "Whether the belief-forming process is reliable",
+            "Authority endorsement",
+            "Emotional certainty"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 12,
+        "question": "Knowledge differs from opinion because:",
+        "options": [
+            "Knowledge is popular",
+            "Knowledge has rational justification and corresponds to reality",
+            "Knowledge is easier",
+            "Knowledge never changes"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 13,
+        "question": "Internalism in epistemology holds that:",
+        "options": [
+            "Knowledge comes from within",
+            "The factors that justify belief must be accessible to the believer",
+            "Only internal states exist",
+            "The external world is irrelevant"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 14,
+        "question": "Externalism in epistemology argues:",
+        "options": [
+            "Only external things exist",
+            "Justification can depend on factors outside the believer's awareness",
+            "Knowledge is impossible",
+            "Only empirical knowledge counts"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 15,
+        "question": "The correspondence theory of truth states:",
+        "options": [
+            "Truth is what most believe",
+            "Truth consists in agreement of thoughts with reality",
+            "Truth is whatever works",
+            "Truth doesn't exist"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 16,
+        "question": "The tripartite definition of knowledge requires:",
+        "options": [
+            "Only truth",
+            "Belief, truth, and justification",
+            "Only justification",
+            "Only belief"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 17,
+        "question": "Fallibilism holds that:",
+        "options": [
+            "We can never be wrong",
+            "Knowledge doesn't require absolute certainty",
+            "All beliefs are false",
+            "Only certain beliefs count as knowledge"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 18,
+        "question": "The regress problem in epistemology concerns:",
+        "options": [
+            "Going backwards in time",
+            "The infinite chain of justification for beliefs",
+            "Forgetting information",
+            "Repeating mistakes"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 19,
+        "question": "Virtue epistemology focuses on:",
+        "options": [
+            "Moral virtues only",
+            "Intellectual virtues and excellences in knowing",
+            "Social virtues",
+            "Physical abilities"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 20,
+        "question": "Contextualism in epistemology claims:",
+        "options": [
+            "Context never matters",
+            "Knowledge attributions are context-sensitive",
+            "Only context matters",
+            "Context is irrelevant to truth"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 21,
+        "question": "The value problem asks:",
+        "options": [
+            "How much knowledge costs",
+            "Why knowledge is more valuable than mere true belief",
+            "Which knowledge is most important",
+            "How to measure knowledge"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 22,
+        "question": "What distinguishes knowledge from lucky guesses?",
+        "options": [
+            "Knowledge is always certain",
+            "Knowledge has proper justification and isn't accidental",
+            "Knowledge is more popular",
+            "Knowledge is simpler"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 23,
+        "question": "According to course readings, precise definition matters because:",
+        "options": [
+            "It sounds academic",
+            "Imprecise claims cannot be properly evaluated",
+            "It makes arguments longer",
+            "It confuses opponents"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 24,
+        "question": "Epistemic circularity occurs when:",
+        "options": [
+            "Using circular reasoning",
+            "Using a source of knowledge to validate itself",
+            "Avoiding all reasoning",
+            "Only trusting authorities"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 25,
+        "question": "The problem of the criterion refers to:",
+        "options": [
+            "Measuring difficulty",
+            "The circular challenge of needing criteria for truth to establish criteria",
+            "Education cost",
+            "Learning time"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 26,
+        "question": "Modal epistemology deals with:",
+        "options": [
+            "Only necessary truths",
+            "Knowledge of possibility and necessity",
+            "Only empirical facts",
+            "Only logical truths"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 27,
+        "question": "What is a philosophical claim?",
+        "options": [
+            "An emotion",
+            "A declarative sentence that can be true or false",
+            "A question",
+            "A belief without justification"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 28,
+        "question": "A vague claim:",
+        "options": [
+            "Is about abstracts",
+            "Uses imprecise words with unclear boundaries",
+            "Is controversial",
+            "Is complex"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 29,
+        "question": "An ambiguous claim:",
+        "options": [
+            "Is false",
+            "Can have several possible meanings",
+            "Is simple",
+            "Needs expertise"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
+    {
+        "id": 30,
+        "question": "To avoid vagueness:",
+        "options": [
+            "Use technical terms",
+            "Define terms through examples, synonyms, or explanations",
+            "Avoid topics",
+            "Discuss facts only"
+        ],
+        "correct": 1,
+        "section": "Epistemology"
+    },
     
-    # Section filter
-    sections = ["All Sections"] + list(set([q["section"] for q in questions]))
-    selected_section = st.selectbox("Filter by Section:", sections)
+    # SECTION 2: PLATO'S THEORY OF FORMS (31-50)
+    {
+        "id": 31,
+        "question": "According to Plato, the world we perceive through our senses is:",
+        "options": [
+            "The most real and reliable source of knowledge",
+            "An imperfect copy of a more perfect reality",
+            "An illusion that doesn't exist at all",
+            "The only world that exists"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 32,
+        "question": "In Plato's Theory of Forms, what makes the Forms 'more real' than material objects?",
+        "options": [
+            "Forms are bigger and more powerful than physical things",
+            "Forms are eternal, unchanging, and perfect while material things are temporary and flawed",
+            "Forms can be seen with our eyes while material things are invisible",
+            "Forms are located in a specific place while material things exist everywhere"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 33,
+        "question": "What does the 'participation' relationship mean in Plato's theory?",
+        "options": [
+            "Forms actively participate in creating the material world",
+            "Material objects are imperfect copies that 'participate in' or resemble perfect Forms",
+            "Humans participate in Forms through religious ceremonies",
+            "Forms and material objects are equal participants in reality"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 34,
+        "question": "According to Plato, why can we recognize that a drawn triangle is triangular even though it's imperfect?",
+        "options": [
+            "Because we learned geometry in school",
+            "Because our soul has knowledge of the perfect Form of Triangle from before birth",
+            "Because all triangles in the physical world are actually perfect",
+            "Because recognition is just a learned behavioral response"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 35,
+        "question": "What is the Form of the Good in Plato's theory?",
+        "options": [
+            "Just another Form like all the others",
+            "The highest Form that makes all other Forms knowable and gives them reality",
+            "A form that only exists in human minds",
+            "The least important of all Forms"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 36,
+        "question": "In Plato's Divided Line analogy, which represents the highest level of knowledge?",
+        "options": [
+            "Images and shadows (eikasia)",
+            "Physical objects (pistis)",
+            "Mathematical reasoning (dianoia)",
+            "Knowledge of Forms through dialectic (noesis)"
+        ],
+        "correct": 3,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 37,
+        "question": "Which of these would Plato consider closest to true reality?",
+        "options": [
+            "A photograph of a beautiful sunset",
+            "The actual sunset in the physical world",
+            "The mathematical equations describing light and color",
+            "The Form of Beauty itself"
+        ],
+        "correct": 3,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 38,
+        "question": "What does Plato mean when he says philosophers should rule?",
+        "options": [
+            "Philosophers are naturally more ambitious than others",
+            "Only philosophers have seen true reality and can guide others toward it",
+            "Philosophers are better at making money than others",
+            "Philosophy is the easiest subject to master"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 39,
+        "question": "How does Plato's theory explain why we can understand abstract mathematical concepts?",
+        "options": [
+            "Mathematics is learned through sensory experience",
+            "The soul has prior knowledge of perfect mathematical Forms",
+            "Mathematical concepts are just useful human conventions",
+            "Mathematics doesn't really exist, it's just language"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 40,
+        "question": "According to Plato, what is the relationship between justice in the soul and justice in the state?",
+        "options": [
+            "There is no relationship between individual and political justice",
+            "Both involve the same structure: reason ruling over spirit and appetite",
+            "Political justice is more important than individual justice",
+            "Individual justice is impossible without political justice"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 41,
+        "question": "In the Cave Allegory, what do the shadows on the wall represent?",
+        "options": [
+            "Evil or false ideas that deceive people",
+            "Sensory experiences that we mistake for ultimate reality",
+            "Mathematical concepts that are hard to understand",
+            "Political propaganda used to control people"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 42,
+        "question": "What does the journey from cave to sunlight represent?",
+        "options": [
+            "Growing up and becoming an adult",
+            "The process of philosophical education and enlightenment",
+            "Escaping from political oppression",
+            "Learning to use your physical senses better"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 43,
+        "question": "Why does the escaped prisoner return to the cave?",
+        "options": [
+            "He realizes the outside world was just another illusion",
+            "He wants to rule over the other prisoners",
+            "He feels a duty to help others reach enlightenment",
+            "He is forced to return against his will"
+        ],
+        "correct": 2,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 44,
+        "question": "According to Plato, why do people resist philosophical truth?",
+        "options": [
+            "Because they are naturally evil or stupid",
+            "Because truth is painful and they prefer comfortable illusions",
+            "Because philosophers explain things poorly",
+            "Because there is no real truth to discover"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 45,
+        "question": "What does the sun represent in the Cave Allegory?",
+        "options": [
+            "Physical warmth and comfort",
+            "The Form of the Good - the highest source of knowledge and reality",
+            "Human emotions and feelings",
+            "Political power and authority"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 46,
+        "question": "What does Plato suggest about the relationship between knowledge and moral responsibility?",
+        "options": [
+            "Knowledge has nothing to do with moral responsibility",
+            "Those who have achieved knowledge have a duty to help others",
+            "Knowledge makes people selfish and uncaring",
+            "Only some people deserve to have knowledge"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 47,
+        "question": "How does Plato's theory explain moral knowledge?",
+        "options": [
+            "Moral knowledge comes from cultural conditioning",
+            "Moral knowledge comes from recognizing eternal moral Forms like Justice and Good",
+            "There is no such thing as moral knowledge",
+            "Moral knowledge is purely emotional"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 48,
+        "question": "According to Plato, why is the physical world less real than the Forms?",
+        "options": [
+            "The physical world doesn't exist at all",
+            "The physical world is constantly changing and imperfect, while Forms are eternal and perfect",
+            "The physical world is too small compared to the Forms",
+            "The physical world is evil while Forms are good"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 49,
+        "question": "How does Plato's theory explain why mathematical truths are universal?",
+        "options": [
+            "Different cultures create different mathematics",
+            "Mathematical Forms exist eternally and can be discovered by any rational mind",
+            "Mathematics is just a useful convention",
+            "Mathematical truths are not actually universal"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
+    {
+        "id": 50,
+        "question": "What is Aristotle's 'Third Man' argument against Plato's Forms?",
+        "options": [
+            "There must be three versions of every Form",
+            "If humans resemble the Form of Human, we need another Form to explain that resemblance, leading to infinite regress",
+            "Only three people can understand each Form",
+            "Forms exist in groups of three"
+        ],
+        "correct": 1,
+        "section": "Plato's Theory of Forms"
+    },
     
-    # Filter questions by section
-    if selected_section == "All Sections":
-        display_questions = questions
-    else:
-        display_questions = [q for q in questions if q["section"] == selected_section]
+    # SECTION 3: SOCRATES AND ANCIENT PHILOSOPHY (51-70)
+    {
+        "id": 51,
+        "question": "Why was Socrates put on trial?",
+        "options": [
+            "For stealing money from the state",
+            "For corrupting the youth of Athens and not believing in the gods of the state",
+            "For supporting Athens' enemies in war",
+            "For teaching without a license"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 52,
+        "question": "What was Socrates' response to the Oracle at Delphi saying he was the wisest person?",
+        "options": [
+            "He immediately accepted this as proof of his superiority",
+            "He tested this by questioning people who claimed to have knowledge",
+            "He rejected the Oracle as false",
+            "He stopped doing philosophy altogether"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 53,
+        "question": "Socrates' method of questioning is designed to:",
+        "options": [
+            "Prove that he is smarter than everyone else",
+            "Show people that they don't really know what they think they know",
+            "Teach specific facts about the world",
+            "Win debates against opponents"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 54,
+        "question": "According to Socrates in the Crito, why shouldn't he escape from prison?",
+        "options": [
+            "Because escape is physically impossible",
+            "Because he has an obligation to obey the laws that gave him life and education",
+            "Because he wants to become a martyr",
+            "Because his friends refuse to help him"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 55,
+        "question": "In his trial defense, Socrates compares himself to:",
+        "options": [
+            "A wise teacher",
+            "A gadfly that stings the state into action",
+            "A military general",
+            "A religious prophet"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 56,
+        "question": "What does Socrates mean when he says 'the unexamined life is not worth living'?",
+        "options": [
+            "Life without scientific study is meaningless",
+            "A life without philosophical self-reflection lacks value",
+            "Only philosophers should be allowed to live",
+            "People should constantly worry about their lives"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 57,
+        "question": "What is the significance of Socrates' claim that he knows nothing?",
+        "options": [
+            "It shows he is being falsely modest",
+            "It demonstrates intellectual humility and the beginning of true wisdom",
+            "It proves that knowledge is impossible",
+            "It means he never studied anything"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 58,
+        "question": "In Socrates' view, what is the relationship between knowledge and virtue?",
+        "options": [
+            "Knowledge and virtue are completely unrelated",
+            "True knowledge leads to virtuous action - no one does wrong willingly",
+            "Virtue is more important than knowledge",
+            "Knowledge corrupts virtue"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 59,
+        "question": "What does philosophy literally mean?",
+        "options": [
+            "The study of wisdom",
+            "The love of wisdom",
+            "The pursuit of truth",
+            "The analysis of reality"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 60,
+        "question": "According to the text, what is the primary goal of philosophy?",
+        "options": [
+            "To win arguments against others",
+            "To achieve autonomy by examining fundamental beliefs and encouraging rational thinking",
+            "To memorize the thoughts of ancient thinkers",
+            "To prove that all knowledge is relative"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 61,
+        "question": "What are the three main traditional fields of philosophy?",
+        "options": [
+            "Logic, ethics, and politics",
+            "Epistemology, metaphysics, and ethics",
+            "Theology, science, and morality",
+            "Ancient, medieval, and modern"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 62,
+        "question": "Critical thinking involves:",
+        "options": [
+            "Always disagreeing with popular opinions",
+            "Disciplined thinking that bases beliefs on well-founded evidence and logical reasoning",
+            "Criticizing everything without offering alternatives",
+            "Following the arguments of authority figures"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 63,
+        "question": "Metaphysics addresses questions about:",
+        "options": [
+            "How we should treat other people",
+            "What we can know about the world",
+            "The most general characteristics of existence and reality",
+            "How to construct valid arguments"
+        ],
+        "correct": 2,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 64,
+        "question": "According to the text, reasoning is:",
+        "options": [
+            "Always based on emotions and feelings",
+            "The process of thinking by which we draw conclusions from evidence",
+            "Only useful in mathematics and science",
+            "Something that should be avoided in philosophy"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 65,
+        "question": "What makes philosophy valuable according to the text?",
+        "options": [
+            "It guarantees wealth and success",
+            "It helps achieve freedom, builds critical thinking, and cultivates awareness",
+            "It provides easy answers to all life's questions",
+            "It allows people to avoid making difficult decisions"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 66,
+        "question": "What was significant about the Pre-Socratic philosophers?",
+        "options": [
+            "They were the first to rely purely on religious authority",
+            "They made the crucial move from mythological to rational explanations",
+            "They rejected all forms of reasoning",
+            "They focused only on political questions"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 67,
+        "question": "According to Plato's Phaedo, what does Socrates say the soul resembles?",
+        "options": [
+            "The body",
+            "Water",
+            "Something divine, immortal, and intelligible",
+            "A material object"
+        ],
+        "correct": 2,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 68,
+        "question": "According to Plato, what happens to a soul that becomes 'polluted'?",
+        "options": [
+            "It becomes stronger",
+            "It is dragged down to the visible world after death",
+            "It immediately dies",
+            "It gains wisdom"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 69,
+        "question": "What is Plato's view on the relationship between soul and body?",
+        "options": [
+            "They are equal partners",
+            "The soul should rule over the body",
+            "The body should control the soul",
+            "They are identical"
+        ],
+        "correct": 1,
+        "section": "Socrates and Ancient Philosophy"
+    },
+    {
+        "id": 70,
+        "question": "According to Aristotle, what is the 'highest end' that humans seek?",
+        "options": [
+            "Pleasure and wealth",
+            "Fame and recognition",
+            "Happiness achieved through virtue and reason",
+            "Knowledge of the Forms in another world"
+        ],
+        "correct": 2,
+        "section": "Socrates and Ancient Philosophy"
+    },
     
-    st.markdown("---")
-    
-    for idx, q in enumerate(display_questions):
-        # Show section header
-        if idx == 0 or (idx > 0 and display_questions[idx-1]["section"] != q["section"]):
-            st.markdown(f"## {q['section']}")
-        
-        st.markdown(f"### Question {q['id']}")
-        st.write(q["question"])
-        
-        answer = st.radio(
-            "Select your answer:",
-            options=range(len(q["options"])),
-            format_func=lambda x: q["options"][x],
-            key=f"q_{q['id']}",
-            index=st.session_state.answers.get(q['id'], None)
-        )
-        
-        st.session_state.answers[q['id']] = answer
-        st.markdown("---")
-    
-    # Progress tracking
-    answered = len([a for a in st.session_state.answers.values() if a is not None])
-    st.progress(answered / len(questions))
-    st.write(f"Questions answered: {answered} / {len(questions)}")
-    
-    # Submit button
-    if answered == len(questions):
-        if st.button("Submit Exam", type="primary", use_container_width=True):
-            st.session_state.submitted = True
-            st.rerun()
-    else:
-        st.warning(f"Please answer all {len(questions)} questions before submitting. ({len(questions) - answered} remaining)")
-
-# Results page
-else:
-    # Calculate score
-    score = sum(1 for q in questions if st.session_state.answers.get(q['id']) == q['correct'])
-    percentage = round((score / len(questions)) * 100)
-    
-    # Determine grade
-    if percentage >= 90:
-        grade = "A"
-        grade_color = "green"
-    elif percentage >= 80:
-        grade = "B"
-        grade_color = "blue"
-    elif percentage >= 70:
-        grade = "C"
-        grade_color = "orange"
-    elif percentage >= 60:
-        grade = "D"
-        grade_color = "red"
-    else:
-        grade = "F"
-        grade_color = "darkred"
-    
-    # Display score
-    st.success(f"## 🎯 Exam Results: {score} / {len(questions)} ({percentage}%)")
-    st.markdown(f"### Grade: <span style='color:{grade_color}; font-size:2em; font-weight:bold'>{grade}</span>", unsafe_allow_html=True)
-    
-    # Section breakdown
-    st.markdown("### 📊 Section Performance")
-    section_scores = {}
-    for q in questions:
-        section = q["section"]
-        if section not in section_scores:
-            section_scores[section] = {"correct": 0, "total": 0}
-        section_scores[section]["total"] += 1
-        if st.session_state.answers.get(q['id']) == q['correct']:
-            section_scores[section]["correct"] += 1
-    
-    for section, scores in section_scores.items():
-        section_pct = round((scores["correct"] / scores["total"]) * 100)
-        st.write(f"**{section}:** {scores['correct']}/{scores['total']} ({section_pct}%)")
-    
-    # Show answers with explanations
-    st.markdown("---")
-    st.markdown("## 📝 Answer Review")
-    
-    # Filter for review
-    review_filter = st.selectbox("Show:", ["All Questions", "Incorrect Only", "Correct Only"])
-    
-    for idx, q in enumerate(questions):
-        user_answer = st.session_state.answers.get(q['id'])
-        is_correct = user_answer == q['correct']
-        
-        # Apply filter
-        if review_filter == "Incorrect Only" and is_correct:
-            continue
-        if review_filter == "Correct Only" and not is_correct:
-            continue
-        
-        if is_correct:
-            st.success(f"### ✅ Question {q['id']} - {q['section']}")
-        else:
-            st.error(f"### ❌ Question {q['id']} - {q['section']}")
-        
-        st.write(f"**{q['question']}**")
-        
-        st.write(f"**Your answer:** {q['options'][user_answer]}")
-        
-        if not is_correct:
-            st.write(f"**Correct answer:** {q['options'][q['correct']]}")
-        
-        st.markdown("---")
-    
-    # Retake button
-    if st.button("🔄 Retake Exam", type="primary", use_container_width=True):
-        st.session_state.answers = {}
-        st.session_state.submitted = False
-        st.rerun()
+    # SECTION 4: HUMAN NATURE AND DARWIN (71-90)
+    {
+        "id": 71,
+        "question": "What is the 'Traditional Western View' of human nature?",
+        "options": [
+            "Humans are essentially animals with no special properties",
+            "Humans are rational beings with immaterial souls designed for a purpose",
+            "Humans are purely physical machines",
+            "Humans are naturally evil"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 72,
+        "question": "According to the text, what are Darwin's three key ideas?",
+        "options": [
+            "Evolution, creation, and intelligent design",
+            "Variation, struggle for existence, and natural selection",
+            "Adaptation, mutation, and survival",
+            "Competition, cooperation, and extinction"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 73,
+        "question": "How does Darwin's theory challenge the Traditional Western view?",
+        "options": [
+            "It proves that souls don't exist",
+            "It suggests humans evolved from other animals rather than being specially designed",
+            "It shows that reason is useless",
+            "It demonstrates that purpose doesn't exist"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 74,
+        "question": "According to the text, what does Darwin say about human mental faculties?",
+        "options": [
+            "They are completely different from animal faculties",
+            "There is no fundamental difference between human and higher mammal mental faculties",
+            "Only humans have mental faculties",
+            "Mental faculties don't actually exist"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 75,
+        "question": "What does 'natural selection' mean in Darwin's theory?",
+        "options": [
+            "Humans consciously choose which traits to develop",
+            "Nature actively decides which organisms should survive",
+            "Favorable variations are preserved and unfavorable ones destroyed through survival pressures",
+            "All variations are equally likely to survive"
+        ],
+        "correct": 2,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 76,
+        "question": "According to Thomas Hobbes' materialist view, humans are essentially:",
+        "options": [
+            "Rational souls temporarily inhabiting physical bodies",
+            "Complex physical machines driven by self-interest",
+            "Divine beings made in God's image",
+            "Naturally good creatures corrupted by society"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 77,
+        "question": "What is 'psychological egoism' as defended by philosophers like
