@@ -857,7 +857,7 @@ questions = [
         "section": "Socrates and Ancient Philosophy"
     },
     
-    # SECTION 4: HUMAN NATURE AND DARWIN (71-90)
+    # SECTION 4: HUMAN NATURE AND DARWIN (71-78)
     {
         "id": 71,
         "question": "What is the 'Traditional Western View' of human nature?",
@@ -932,4 +932,105 @@ questions = [
     },
     {
         "id": 77,
-        "question": "What is 'psychological egoism' as defended by philosophers like
+        "question": "What is 'psychological egoism' as defended by philosophers like Hobbes?",
+        "options": [
+            "The view that people should be selfish",
+            "The view that all human actions are ultimately motivated by self-interest",
+            "The view that selfishness is morally wrong",
+            "The view that humans have no interests"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    },
+    {
+        "id": 78,
+        "question": "What is the main criticism of psychological egoism?",
+        "options": [
+            "It's too optimistic about human nature",
+            "It seems to contradict genuine cases of altruism and self-sacrifice",
+            "It's too religious",
+            "It's not scientific enough"
+        ],
+        "correct": 1,
+        "section": "Human Nature and Darwin"
+    }
+]
+
+# Display title
+st.title("🧠 PHL 201 Comprehensive Exam Quiz")
+st.markdown("---")
+
+# Display instructions
+st.markdown("""
+### Instructions
+- Answer all 78 questions
+- Click Submit when finished to see your score
+- Questions are organized by section
+""")
+
+# Create columns for better layout
+col1, col2 = st.columns([3, 1])
+
+with col1:
+    # Display questions
+    for q in questions:
+        st.markdown(f"### Question {q['id']}")
+        st.markdown(f"**Section:** {q['section']}")
+        st.markdown(f"**{q['question']}**")
+        
+        # Create radio buttons for options
+        answer = st.radio(
+            "Select your answer:",
+            options=range(len(q['options'])),
+            format_func=lambda x, q=q: q['options'][x],
+            key=f"q_{q['id']}",
+            index=None
+        )
+        
+        # Store answer
+        if answer is not None:
+            st.session_state.answers[q['id']] = answer
+        
+        st.markdown("---")
+
+with col2:
+    # Progress indicator
+    st.markdown("### Progress")
+    answered = len(st.session_state.answers)
+    total = len(questions)
+    st.progress(answered / total)
+    st.write(f"{answered} / {total} answered")
+
+# Submit button
+if st.button("Submit Quiz", type="primary"):
+    if len(st.session_state.answers) < len(questions):
+        st.warning(f"Please answer all questions. You have {len(questions) - len(st.session_state.answers)} questions remaining.")
+    else:
+        st.session_state.submitted = True
+        
+        # Calculate score
+        correct = 0
+        for q in questions:
+            if st.session_state.answers.get(q['id']) == q['correct']:
+                correct += 1
+        
+        score_percentage = (correct / len(questions)) * 100
+        
+        # Display results
+        st.balloons()
+        st.success(f"Quiz submitted! Your score: {correct}/{len(questions)} ({score_percentage:.1f}%)")
+        
+        # Show section breakdown
+        st.markdown("### Score by Section")
+        sections = {}
+        for q in questions:
+            section = q['section']
+            if section not in sections:
+                sections[section] = {'correct': 0, 'total': 0}
+            sections[section]['total'] += 1
+            if st.session_state.answers.get(q['id']) == q['correct']:
+                sections[section]['correct'] += 1
+        
+        for section, data in sections.items():
+            percentage = (data['correct'] / data['total']) * 100
+            st.write(f"**{section}:** {data['correct']}/{data['total']} ({percentage:.1f}%)")
