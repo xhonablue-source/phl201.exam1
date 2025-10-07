@@ -12,6 +12,7 @@ if 'show_explanation' not in st.session_state:
 # All 120 questions with explanations
 questions = [
     # SECTION 1: EPISTEMOLOGY (1-30)
+    },
     {
         "id": 105,
         "question": "According to Hegel, how do we become free and independent?",
@@ -221,6 +222,10 @@ questions = [
         "explanation": "Philosophy is uniquely concerned with examining the fundamental assumptions and concepts that other disciplines take as given. It questions the foundations that other fields build upon."
     }
 ]
+
+# Display title
+st.title("🧠 PHL 201 Comprehensive Exam Quiz - Tutorial Mode")
+st.markdown("---")
 
 # Display title
 st.title("🧠 PHL 201 Comprehensive Exam Quiz - Tutorial Mode")
