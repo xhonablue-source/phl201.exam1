@@ -11,6 +11,9 @@ if 'show_explanation' not in st.session_state:
 
 # All 120 questions with explanations
 questions = [
+
+# All 120 questions with explanations
+questions = [
     # SECTION 1: EPISTEMOLOGY (1-30)
     },
     {
